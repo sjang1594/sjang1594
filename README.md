@@ -3,9 +3,10 @@
 ### Graduate Teaching Assistant
 
 ### Interests
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
+- ML/DL Models Prediction
 - Robotic Software Engineering
 - Computer Vision
+- Embeded Programming
 
 
 <div align=center>
