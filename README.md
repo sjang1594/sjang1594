@@ -8,7 +8,7 @@
 - Computer Vision
 - Embeded Programming
 
-### Working On
+### Working On...
 - Making a github blog.
 - Learning Object Detection more in depth.
 - Read more on SLAM & GAN papers.
