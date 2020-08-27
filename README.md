@@ -12,6 +12,7 @@
 - Making a github blog.
 - Learning Object Detection more in depth.
 - Read more on SLAM & GAN papers.
+- Root Detection 
 
 <div align=center>
 
