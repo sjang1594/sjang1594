@@ -3,7 +3,7 @@
 ### Graduate Teaching Assistant
 
 ### Interests
-- ML/DL Models Prediction
+- ML/DL Models
 - Robotic Software Engineering
 - Computer Vision
 - Embeded Programming
