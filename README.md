@@ -14,6 +14,7 @@
 - Read more on SLAM & GAN papers.
 - Root Detection
 - Mastering C++
+- Studying Remote PPG
 
 <div align=center>
 
