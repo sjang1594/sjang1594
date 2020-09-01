@@ -9,7 +9,7 @@
 - Embeded Programming
 
 ### Working On...
-- Making a github blog.
+- Making a github blog(On the Process)
 - Learning Object Detection more in depth.
 - Read more on SLAM & GAN papers.
 - Root Detection
