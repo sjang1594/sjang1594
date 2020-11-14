@@ -6,7 +6,6 @@
 - ML/DL Models
 - Robotic Software Engineering
 - Computer Vision
-- Embeded Programming
 
 ### Working On...
 - Making a github blog(On the Progess)
