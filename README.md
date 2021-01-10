@@ -14,13 +14,12 @@
 - Learning Object Detection more in depth.
 - Read more on SLAM & GAN papers.
 - Root Detection
-- Mastering C++
 - Studying Remote PPG
-- Ensemble Docking
 
 ### Researching On...
-- Video Object Segmentation.
+- Video Object Segmentation
 - Attention Network
+- SLAM Implementation
 
 <div align=center>
 
