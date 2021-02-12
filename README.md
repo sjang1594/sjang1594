@@ -8,6 +8,7 @@
 - Computer Vision
 
 ### Working On...
+- Root Analysis
 - Making a github blog(On the Progess)
 
 ### Studying On...
