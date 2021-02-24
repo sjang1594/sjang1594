@@ -19,7 +19,6 @@
 
 ### Researching On...
 - Video Object Segmentation
-- Attention Network
 - SLAM Implementation
 
 <div align=center>
