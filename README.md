@@ -9,7 +9,7 @@
 
 ### Working On...
 - Root Analysis
-- Making a github blog (On the Progess)
+- Computer Vision Certification by Udacity
 
 ### Studying On...
 - Learning Object Detection more in depth.
