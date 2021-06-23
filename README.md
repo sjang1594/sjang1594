@@ -5,7 +5,8 @@
 ### Interests
 - ML/DL Models
 - Robotic Software Engineering
-- Computer Vision
+- Computer Vision (Depth Prediction, 3D Reconstruction, VR/AR)
+- Autonomous Vehicle (visual-SLAM)
 
 ### Working On...
 - Root Analysis
