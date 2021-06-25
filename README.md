@@ -22,6 +22,11 @@
 - Video Object Segmentation
 - SLAM Implementation
 
+
+#### Github Stats Card
+<img align="left" alt="sjang1594" src="https://github-readme-stats.vercel.app/api?username=sjang1594&show_icons=true&theme=vue-dark"/>
+
+
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sjang1594.github.io/)](https://sjang1594.github.io/)
