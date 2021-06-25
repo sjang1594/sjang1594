@@ -2,7 +2,7 @@
 
 ### Graduate Teaching Assistant
 
-### Interests
+### Research Interests
 - ML/DL Models
 - Robotic Software Engineering
 - Computer Vision (Depth Prediction, 3D Reconstruction, VR/AR)
@@ -22,11 +22,12 @@
 - Video Object Segmentation
 - SLAM Implementation
 
-#### Github Stats Card
-<img align="left" alt="sjang1594" src="https://github-readme-stats.vercel.app/api?username=sjang1594&show_icons=true&theme=vue-dark"/>
+
 
 ### If you would like to contact me, click one of those sites.
 <div align=center>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?sjang1594=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sjang1594.github.io/)](https://sjang1594.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https:www.linkedin.com/in/seungho-jang-41b3b9145/)](https://www.linkedin.com/in/seungho-jang-41b3b9145/) 
