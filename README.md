@@ -24,7 +24,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjang1594)](https://github.com/sjang1594/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjang1594)](https://github.com/sjang1594/github-readme-stats)
 
 <div align=center>
   
