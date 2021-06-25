@@ -22,11 +22,6 @@
 - Video Object Segmentation
 - SLAM Implementation
 
-
-#### Github Stats Card
-<img align="left" alt="sjang1594" src="https://github-readme-stats.vercel.app/api?username=sjang1594&show_icons=true&theme=vue-dark"/>
-
----
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sjang1594.github.io/)](https://sjang1594.github.io/)
@@ -35,3 +30,6 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sjang1594)](https://www.facebook.com/sjang1594)
 
 </div>
+
+#### Github Stats Card
+<img align="left" alt="sjang1594" src="https://github-readme-stats.vercel.app/api?username=sjang1594&show_icons=true&theme=vue-dark"/>
