@@ -25,7 +25,7 @@
 
 #### Github Stats Card
 <img align="left" alt="sjang1594" src="https://github-readme-stats.vercel.app/api?username=sjang1594&show_icons=true&theme=vue-dark"/>
-
+<br/>
 
 <div align=center>
 
