@@ -23,10 +23,10 @@
 - SLAM Implementation
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/sjang1594=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### If you would like to contact me, click one of those sites.
 <div align=center>
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjang1594)](https://github.com/sjang1594/github-readme-stats)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sjang1594.github.io/)](https://sjang1594.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https:www.linkedin.com/in/seungho-jang-41b3b9145/)](https://www.linkedin.com/in/seungho-jang-41b3b9145/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:sjang1594@gmail.com)
