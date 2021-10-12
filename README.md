@@ -17,6 +17,7 @@
 - Read more on SLAM & GAN papers.
 - Root Detection
 - Studying Remote PPG
+- VR / AR
 
 ### Researching On...
 - Video Object Segmentation
