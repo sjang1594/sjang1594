@@ -9,15 +9,13 @@
 - Autonomous Vehicle (visual-SLAM)
 
 ### Working On...
-- Root Analysis
-- Computer Vision Certification by Udacity
+- Game Developement
+- Depth Prediction
 
 ### Studying On...
 - Learning Object Detection more in depth.
 - Read more on SLAM & GAN papers.
 - Root Detection
-- Studying Remote PPG
-- VR / AR
 
 ### Researching On...
 - Video Object Segmentation
