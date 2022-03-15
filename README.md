@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Graduate Teaching Assistant
+### Software Engineer at MORAI. Inc
 
 ### Research Interests
 - ML/DL Models
