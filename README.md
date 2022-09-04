@@ -6,7 +6,6 @@
 - ML/DL Models
 - Robotic Software Engineering
 - Computer Vision (Depth Prediction, 3D Reconstruction, VR/AR)
-- Computer Graphics (3D - Tracing)
 - Visual SLAM
 
 ### Working On...
@@ -14,14 +13,13 @@
 - Depth Prediction
 
 ### Studying On...
-- Learning Object Detection more in depth.
-- Read more on SLAM & GAN papers.
+- Computer Graphics (3D - Tracing)
+- Visual-SLAM
 - Root Detection
 
 ### Researching On...
-- Video Object Segmentation
-- SLAM Implementation
-
+- Image Segmentation
+- 3D Computer Vision
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjang1594)](https://github.com/sjang1594/github-readme-stats)
