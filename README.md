@@ -6,7 +6,8 @@
 - ML/DL Models
 - Robotic Software Engineering
 - Computer Vision (Depth Prediction, 3D Reconstruction, VR/AR)
-- Autonomous Vehicle (visual-SLAM)
+- Computer Graphics (3D - Tracing)
+- Visual SLAM
 
 ### Working On...
 - Game Developement
