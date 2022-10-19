@@ -9,7 +9,7 @@
 - Visual SLAM
 
 ### Working On...
-- Game Developement
+- Game Developement (Currently Working on My Person Project)
 - Depth Prediction
 
 ### Studying On...
