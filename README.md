@@ -18,6 +18,10 @@
 - Visual-SLAM
 - Root Detection
 
+### Learning Programming Languages
+- C++ / C#
+- Lua (Mostly used in GameEngine)
+
 ### Researching On...
 - Image Segmentation
 - 3D Computer Vision
