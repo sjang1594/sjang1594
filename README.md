@@ -10,21 +10,16 @@
 - Visual SLAM
 
 ### Working On...
-- Game Developement (Currently Working on My Person Project)
-- Depth Prediction
+- Game Engine Developement (Currently Working on My Person Project)
+- Game Development
 
 ### Studying On...
-- Computer Graphics (3D - Tracing)
+- Computer Graphics (3D Game Engine)
 - Visual-SLAM
-- Root Detection
 
-### Learning Programming Languages
-- C++ / C#
-- Lua (Mostly used in GameEngine)
-
-### Researching On...
+### Learning On...
 - Image Segmentation
-- 3D Computer Vision
+- 3D Computer Vision including 3D Geometry
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjang1594)](https://github.com/sjang1594/github-readme-stats)
