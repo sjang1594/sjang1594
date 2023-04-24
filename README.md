@@ -3,6 +3,7 @@
 ### Software Engineer at MORAI. Inc
 - Currently Developing the Scenario Runner
 - Porting Scenario Runner to Unreal Engine 5.1
+- Implementing the Lidar in Unreal Engine using the ray-tracing technique.
 
 ### Research Interests
 - ML/DL Models
