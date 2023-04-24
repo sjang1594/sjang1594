@@ -16,7 +16,7 @@
 - Game Development (AAA) in Unreal Engine
 
 ### Studying On...
-- Computer Graphics (3D Game Engine)
+- Computer Graphics (3D Game Engine) & Math
 - Visual-SLAM
 
 ### Learning On...
