@@ -12,16 +12,16 @@
 - Visual SLAM
 
 ### Working On...
-- Game Engine Developement (Currently Working on My Person Project)
+- Game Engine Development (Currently Working on My Person Project)
 - Game Development (AAA) in Unreal Engine
 
 ### Studying On...
 - Computer Graphics (3D Game Engine) & Math
 - Visual-SLAM
 
-### Learning On...
-- Image Segmentation
-- 3D Computer Vision including 3D Geometry
+### Learning On ...
+- 3D Point Cloud Analysis - Study Group: Reading - [3D Point Cloud Analysis: Traditional, Deep Learning, and Explainable Machine Learning Methods](https://www.amazon.com/3D-Point-Cloud-Analysis_-Traditional_-Deep-Learning_-and-Explainable-Machine-Learning-Methods/dp/3030891798)
+- Multiview Geometry in Computer Vision
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjang1594)](https://github.com/sjang1594/github-readme-stats)
