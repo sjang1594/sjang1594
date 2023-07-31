@@ -16,10 +16,7 @@
 - Game Development (AAA) in Unreal Engine
 
 ### Studying On...
-- Computer Graphics (3D Game Engine) & Math
-- Visual-SLAM
-
-### Learning On ...
+- Computer Graphics (3D Game Engine) & Mathematics
 - 3D Point Cloud Analysis - Study Group: Reading - [3D Point Cloud Analysis: Traditional, Deep Learning, and Explainable Machine Learning Methods](https://www.amazon.com/3D-Point-Cloud-Analysis_-Traditional_-Deep-Learning_-and-Explainable-Machine-Learning-Methods/dp/3030891798)
 - Multiview Geometry in Computer Vision
 ---
