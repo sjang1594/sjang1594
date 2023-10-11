@@ -7,8 +7,8 @@
 
 ### Research Interests
 - ML/DL Models
-- Robotic Software Engineering
-- Computer Vision (Depth Prediction, 3D Reconstruction, VR/AR)
+- Robotic Software Engineering (Perception)
+- Computer Vision & Graphics (3D Reconstruction, VR/AR)
 - Visual SLAM
 
 ### Working On...
