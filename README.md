@@ -16,7 +16,7 @@
 - Game Development (AAA) in Unreal Engine
 
 ### Studied Group
-- 3D Point Cloud Analysis - Study Group Member - [3D Point Cloud Analysis: Traditional, Deep Learning, and Explainable Machine Learning Methods](https://www.amazon.com/3D-Point-Cloud-Analysis_-Traditional_-Deep-Learning_-and-Explainable-Machine-Learning-Methods/dp/3030891798) ==> https://www.youtube.com/watch?v=hgBlCaCIV10&list=PLubUquiqNQdN83-fPBzzViEEqohpdlwk2&index=5
+- 3D Point Cloud Analysis - Study Group Member - [3D Point Cloud Analysis: Traditional, Deep Learning, and Explainable Machine Learning Methods](https://www.amazon.com/3D-Point-Cloud-Analysis_-Traditional_-Deep-Learning_-and-Explainable-Machine-Learning-Methods/dp/3030891798) ==> [YouTube](https://www.youtube.com/watch?v=hgBlCaCIV10&list=PLubUquiqNQdN83-fPBzzViEEqohpdlwk2&index=5)
 
 ### Studying On...
 - Computer Graphics (3D Game Engine) & Mathematics
