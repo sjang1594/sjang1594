@@ -9,7 +9,6 @@
 - ML/DL Models
 - Robotic Software Engineering (Perception)
 - Computer Vision & Graphics (3D Reconstruction, VR/AR)
-- Visual SLAM
 
 ### Working On...
 - Game Engine Development (Currently Working on My Person Project)
