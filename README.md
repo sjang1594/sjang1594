@@ -1,20 +1,23 @@
 ### Hi there 👋
 
 ### Software Engineer at MORAI. Inc
-- Currently Developing the Scenario Runner Desktop Application
-- Porting Scenario Runner to Unreal Engine 5.1
-- Implementing the Lidar Module in Unreal Engine using the ray-tracing technique.
+In the past:
+- developed the Scenario Runner Desktop Application based on the ASAM OpenSCENARIO.
+- ported Scenario Runner to Unreal Engine 5.3 [Done]
+- Currently Working on Realistic RADAR Sensor
+- The lists shown below are what I am currently working on
+  1. Beam Pattern on MIMO Array
+  2. Range-Doppler Map
+  3. FMCW RADAR Design 
 
 ### Research Interests
-- ML/DL Models
-- Robotic Software Engineering (Perception)
-- Computer Vision & Graphics (3D Reconstruction, VR/AR)
+- Robotics & Computer Graphics (3D Reconstruction, VR/AR)
 
 ### Working On...
-- Game Engine Development (Currently Working on My Person Project)
-- Game Development (AAA) in Unreal Engine
+- Game Engine Development.
 
 ### Studied Group
+I am proud that I was able to join the group study for the point cloud in terms of computer graphics & vision. The details are shown below
 - 3D Point Cloud Analysis - Study Group Member - [3D Point Cloud Analysis: Traditional, Deep Learning, and Explainable Machine Learning Methods](https://www.amazon.com/3D-Point-Cloud-Analysis_-Traditional_-Deep-Learning_-and-Explainable-Machine-Learning-Methods/dp/3030891798) ==> [YouTube](https://www.youtube.com/watch?v=hgBlCaCIV10&list=PLubUquiqNQdN83-fPBzzViEEqohpdlwk2&index=5)
 
 ### Studying On...
