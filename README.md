@@ -4,11 +4,14 @@
 In the past:
 - developed the Scenario Runner Desktop Application based on the ASAM OpenSCENARIO.
 - ported Scenario Runner to Unreal Engine 5.3 [Done]
-- Currently Working on Realistic RADAR Sensor
+
+Currently:
+- Working on Realistic RADAR & LiDAR Sensor
 - The lists shown below are what I am currently working on
   1. Beam Pattern on MIMO Array
   2. Range-Doppler Map
-  3. FMCW RADAR Design 
+  3. FMCW RADAR Design
+  4. Ray Tracing
 
 ### Research Interests
 - Robotics & Computer Graphics (3D Reconstruction, VR/AR)
