@@ -4,20 +4,18 @@
 In the past:
 - developed the Scenario Runner Desktop Application based on the ASAM OpenSCENARIO.
 - ported Scenario Runner to Unreal Engine 5.3 [Done]
-
-Currently:
-- Working on Realistic RADAR & LiDAR Sensor
-- The lists shown below are what I am currently working on
+- mapping on Realistic RADAR & LiDAR Sensor
+- The lists shown below are what I worked on
   1. Beam Pattern on MIMO Array
   2. Range-Doppler Map
   3. FMCW RADAR Design
   4. Ray Tracing
 
+Current:
+- developing HAL Design Game Engine (DirectX12 / Vulkan / @Metalkit)
+
 ### Research Interests
 - Robotics & Computer Graphics (3D Reconstruction, VR/AR)
-
-### Working On...
-- Game Engine Development.
 
 ### Studied Group
 I am proud that I was able to join the group study for the point cloud in terms of computer graphics & vision. The details are shown below
