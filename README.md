@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Software Engineer 
+### Software Engineer (Rendering & 3D Game Client Engineer)
 In the past:
 - developed the Scenario Runner Desktop Application based on the ASAM OpenSCENARIO.
 - ported Scenario Runner to Unreal Engine 5.3 [Done]
@@ -14,6 +14,7 @@ In the past:
 Current:
 - developing HAL Design Game Engine (DirectX12 / Vulkan / @Metalkit)
   - [Luna Game Engine](https://github.com/sjang1594/LunaEngine)
+- mobile Rendering
 
 ### Research Interests
 - Robotics & Computer Graphics (3D Reconstruction, VR/AR)
