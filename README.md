@@ -3,7 +3,7 @@
 ### Software Engineer (Rendering & 3D Game Client Engineer - Unreal)
 In the past:
 - developed the Scenario Runner Desktop Application based on the ASAM OpenSCENARIO.
-- ported Scenario Runner to Unreal Engine 5.3 [Done]
+- ported Scenario Runner to Unreal Engine 5.3
 - mapping on Realistic RADAR & LiDAR Sensor
 - The lists shown below are what I worked on
   1. Beam Pattern on MIMO Array
