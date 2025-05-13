@@ -14,6 +14,8 @@ In the past:
 Current:
 - developing HAL Design Game Engine (DirectX12 / Vulkan / @Metalkit)
   - [Luna Game Engine](https://github.com/sjang1594/LunaEngine)
+- developing DirectX11 for tutorial points of view.
+  - 
 - mobile Rendering
 
 ### Research Interests
