@@ -9,7 +9,6 @@ In the past:
   1. Beam Pattern on MIMO Array
   2. Range-Doppler Map
   3. FMCW RADAR Design
-  4. Ray Tracing
 
 Current:
 - developing HAL Design Game Engine (DirectX12 / Vulkan / @Metalkit)
