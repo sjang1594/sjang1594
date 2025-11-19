@@ -15,8 +15,9 @@ Current:
   - [Luna Game Engine](https://github.com/sjang1594/LunaEngine)
 - developing DirectX11 for tutorial points of view.
   - [GameEngineWDirectX11](https://github.com/sjang1594/GameEngineWDirectX11)
-- mobile Rendering
+- Vulkan / DirectX12
 - Unreal Engine Developer
+- Gaussian Splatting & NeRF
 
 ### Research Interests
 - Robotics & Computer Graphics (3D Reconstruction, VR/AR)
