@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Game Engine & Rendering Software Engineer 
+### Computer Graphics & 3D Vision Engineer (DL)
 In the past:
 - developed the Scenario Runner Desktop Application based on the ASAM OpenSCENARIO.
 - ported Scenario Runner to Unreal Engine 5.3
