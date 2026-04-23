@@ -10,7 +10,7 @@
 ## About
 Simulation software engineer with 4+ years of industry experience building real-time rendering engines, and synthetic data generation systems for autonomous driving perception. Alumni of **MORAI** and **Hyundai AutoEver**, where I shipped production-grade Vulkan/DX12 renderers and sensor simulation stacks used in AV development workflows.
 
-Currently focused on the intersection of **GPU-accelerated rendering**, **neural scene representations**, and **sim-to-real robustness** — with ongoing CUDA portfolio work targeting deep learning infrastructure, novel view synthesis, and physically-based atmospheric simulation.
+Currently focused on the intersection of **GPU-accelerated rendering**, **neural scene representations**, and **sim-to-real robustness** — with ongoing CUDA portfolio work targeting deep learning infrastructure and novel view synthesis.
 
 ---
 
