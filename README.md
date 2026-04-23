@@ -13,7 +13,7 @@ In the past:
   - [GameEngineWDirectX11](https://github.com/sjang1594/GameEngineWDirectX11)
 
 Current:
-- developing HAL Design Engine (DirectX12 / Vulkan)
+- Developing HAL Design Engine (DirectX12 / Vulkan)
   - [Luna Engine](https://github.com/sjang1594/LunaEngine)
   - Planning to develop towards Open Source (IssacSIM is very expensive)
 - 3D Vision / Computer Graphics / Deep Learning
