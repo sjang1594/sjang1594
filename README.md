@@ -9,15 +9,16 @@ In the past:
   1. Beam Pattern on MIMO Array
   2. Range-Doppler Map
   3. FMCW RADAR Design
-
-Current:
-- developing HAL Design Game Engine (DirectX12 / Vulkan / @Metalkit)
-  - [Luna Game Engine](https://github.com/sjang1594/LunaEngine)
 - developing DirectX11 for tutorial points of view.
   - [GameEngineWDirectX11](https://github.com/sjang1594/GameEngineWDirectX11)
-- Vulkan / DirectX12
-- Unreal Engine Developer
-- Gaussian Splatting & NeRF
+
+Current:
+- developing HAL Design Engine (DirectX12 / Vulkan)
+  - [Luna Engine](https://github.com/sjang1594/LunaEngine)
+  - Planning to develop towards Open Source (IssacSIM is very expensive)
+- 3D Vision / Computer Graphics / Deep Learning
+  - Gaussian Splatting & NeRF
+  - Diffusion
 
 ### Research Interests
 - Robotics & Computer Graphics (3D Reconstruction, VR/AR)
