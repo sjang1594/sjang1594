@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Seungho Lee
+# Seungho Jang
 
 **Computer Graphics · 3D Vision · GPU Systems Engineer**
 > Bridging physically-grounded simulation and neural scene understanding — from sensor physics to rendering pipelines to real-time engines.
