@@ -1,35 +1,102 @@
 ### Hi there 👋
 
-### Computer Graphics & 3D Vision Engineer (DL)
-In the past:
-- developed the Scenario Runner Desktop Application based on the ASAM OpenSCENARIO.
-- ported Scenario Runner to Unreal Engine 5.3
-- mapping on Realistic RADAR & LiDAR Sensor
-- The lists shown below are what I worked on
-  1. Beam Pattern on MIMO Array
-  2. Range-Doppler Map
-  3. FMCW RADAR Design
-- developing DirectX11 for tutorial points of view.
-  - [GameEngineWDirectX11](https://github.com/sjang1594/GameEngineWDirectX11)
+# Seungho Lee
 
-Current:
-- Developing HAL Design Engine (DirectX12 / Vulkan)
-  - [Luna Engine](https://github.com/sjang1594/LunaEngine)
-  - Planning to develop towards Open Source (IssacSIM is very expensive)
-- 3D Vision / Computer Graphics / Deep Learning
-  - Gaussian Splatting & NeRF
-  - Diffusion
+**Computer Graphics · 3D Vision · GPU Systems Engineer**
+> Bridging physically-grounded simulation and neural scene understanding — from sensor physics to rendering pipelines to real-time engines.
 
-### Research Interests
-- Robotics & Computer Graphics (3D Reconstruction, VR/AR)
-
-### Studied Group
-I am proud that I was able to join the group study for the point cloud in terms of computer graphics & vision. The details are shown below
-- 3D Point Cloud Analysis - Study Group Member - [3D Point Cloud Analysis: Traditional, Deep Learning, and Explainable Machine Learning Methods](https://www.amazon.com/3D-Point-Cloud-Analysis_-Traditional_-Deep-Learning_-and-Explainable-Machine-Learning-Methods/dp/3030891798) ==> [YouTube](https://www.youtube.com/watch?v=hgBlCaCIV10&list=PLubUquiqNQdN83-fPBzzViEEqohpdlwk2&index=5)
-
-### Studying On...
-- Multiview Geometry in Computer Vision
 ---
+
+## About
+Simulation software engineer with 4+ years of industry experience building real-time rendering engines, EO/IR sensor simulation pipelines, and synthetic data generation systems for autonomous driving perception. Alumni of **MORAI** and **Hyundai AutoEver**, where I shipped production-grade Vulkan/DX12 renderers and sensor simulation stacks used in AV development workflows.
+
+Currently focused on the intersection of **GPU-accelerated rendering**, **neural scene representations**, and **sim-to-real robustness** — with ongoing CUDA portfolio work targeting deep learning infrastructure, novel view synthesis, and physically-based atmospheric simulation.
+
+---
+
+## Current Projects
+
+### 🔧 Luna Engine
+*Backend-agnostic real-time renderer — DirectX 12 / Vulkan*
+
+A from-scratch rendering engine designed for portability across modern graphics APIs. Built with an eye toward open-source release as a lower-cost alternative to proprietary simulation environments (Isaac SIM, etc.).
+
+- Explicit GPU memory management and resource barriers
+- Render graph abstraction over DX12 and Vulkan backends
+- Targeting extensibility for sensor simulation integration
+---
+
+### ⚡ CUDA Portfolio
+Three parallel workstreams targeting distinct audiences:
+
+| Project | Focus | Audience |
+|---|---|---|
+| **Custom Flash Attention** | Memory-efficient attention kernel, tiling + online softmax | DL systems / NVIDIA |
+| **GPU Gaussian Splatting Rasterizer** | Forward rasterization + α-compositing, gradient flow through Gaussian params | Neural rendering / PhD research |
+
+---
+### 📡 Sensor Simulation
+
+Prior and ongoing work across radar, LiDAR, and EO/IR modalities:
+
+**FMCW Radar**
+- MIMO Array beam pattern modeling
+- Range-Doppler map generation
+- End-to-end FMCW radar system design
+
+**LiDAR**
+- Motion distortion correction
+- Realistic noise and return modeling
+- Integration with ASAM OpenSCENARIO scenario runner
+
+---
+
+## Past Work
+
+- **Scenario Runner** — ASAM OpenSCENARIO-based desktop simulation application; ported to Unreal Engine 5.3
+- **Realistic Radar & LiDAR Sensor Simulation** — physics-grounded sensor modeling for synthetic data pipelines
+- **GameEngineWDirectX11** — DirectX 11 game engine built for pedagogical clarity and API understanding [GameEngineWDirectX11](https://github.com/sjang1594/GameEngineWDirectX11)
+
+---
+
+## Research Interests
+- **Neural scene representations** — 3D Gaussian Splatting, NeRF, neural radiance fields
+- **Sim-to-real gap** — physically grounded synthetic data, domain randomization, sensor realism
+- **3D reconstruction** — multi-view geometry, dense SLAM, point cloud processing
+- **Robotics & embodied AI** — perception pipelines, VR/AR simulation environments
+- **Diffusion models** — generative priors for scene understanding and data augmentation
+
+---
+
+## Currently Studying
+- **Multiview Geometry in Computer Vision** — epipolar geometry, bundle adjustment, SfM
+- **3DGS training pipeline mechanics** — gradient flow through Gaussian parameters, densification heuristics, custom CUDA rasterizer rationale
+
+---
+
+## Study Group
+
+**3D Point Cloud Analysis Study Group** — reading group covering traditional, deep learning, and explainable ML methods for point cloud processing.
+
+📖 *3D Point Cloud Analysis: Traditional, Deep Learning, and Explainable Machine Learning Methods*
+▶ [YouTube]([YouTube](https://www.youtube.com/watch?v=hgBlCaCIV10&list=PLubUquiqNQdN83-fPBzzViEEqohpdlwk2&index=5))
+
+---
+
+## Tech Stack
+
+**Graphics APIs** — Vulkan · DirectX 12 · DirectX 11 · OpenGL  
+**GPU / Compute** — CUDA · compute shaders · custom kernel development  
+**Simulation** — Unreal Engine 5 · Isaac SIM · ASAM OpenSCENARIO  
+**Languages** — C++ · Python · HLSL · GLSL  
+**ML / Vision** — PyTorch · 3DGS · NeRF · diffusion models  
+**Sensor domains** — EO/IR · FMCW Radar · LiDAR  
+
+---
+
+## Contact
+
+Feel free to reach out regarding graphics engineering, sensor simulation, neural rendering research, or collaboration on open-source GPU projects.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjang1594)](https://github.com/sjang1594/github-readme-stats)
 
